@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LP-main/Listas de Exercícios/LP_Lista_04/exerci-01/exerci-01.iml" filepath="$PROJECT_DIR$/LP-main/Listas de Exercícios/LP_Lista_04/exerci-01/exerci-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP-main/Listas de Exercícios/LP_Lista_02/exercicio_1/exercicio_1.iml" filepath="$PROJECT_DIR$/LP-main/Listas de Exercícios/LP_Lista_02/exercicio_1/exercicio_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP-main/Listas de Exercícios/LP_Lista_03/exercicioo1/exercicioo1.iml" filepath="$PROJECT_DIR$/LP-main/Listas de Exercícios/LP_Lista_03/exercicioo1/exercicioo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/projeto_dev_web.iml" filepath="$PROJECT_DIR$/.idea/projeto_dev_web.iml" />
